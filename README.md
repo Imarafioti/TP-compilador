@@ -32,7 +32,7 @@ Modo de uso:
 .
 
 Podemos compilar un código en un lenguaje de programa ficticio (“Atenas”) basado en typescript.
-Link para el compilado =>
+Link para el compilado => https://glittery-phoenix-d06001.netlify.app/
 
 
 
